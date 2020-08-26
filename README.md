@@ -1,7 +1,7 @@
 
-Hey 👋🏽, I'm qingkongzhiqian!
+Hey 👋🏽, I'm qingkongzhiqian!  
 
-\
+
 - 🔭 I’m currently working on NLP and KG
 - 📫 How to reach me: yangning9371@gmail.com
 
