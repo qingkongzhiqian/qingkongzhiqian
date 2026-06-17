@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 **AI 创业者**，专注于 LLM Application 和 AI Agent 生态
+- 🚀 专注于 LLM Application 和 AI Agent 生态
 - 🔭 正在探索 AI 时代的产品和商业化落地
 - 🛠️ 正在构建 [**GroundAPI**](https://github.com/qingkongzhiqian/groundapi) — 面向 AI Agent 的实时数据 API 平台（MCP / REST / CLI）
 - 🧶 开源了 [**GenUI-LoomAgent**](https://github.com/qingkongzhiqian/GenUI-LoomAgent) — AI 自主决定渲染 UI 组件的 Agent 框架
