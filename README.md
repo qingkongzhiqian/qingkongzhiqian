@@ -14,12 +14,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 专注于 LLM Application 和 AI Agent 生态
-- 🔭 正在探索 AI 时代的产品和商业化落地
-- 🛠️ 正在构建 [**GroundAPI**](https://github.com/qingkongzhiqian/groundapi) — 面向 AI Agent 的实时数据 API 平台（MCP / REST / CLI）
-- 🧶 开源了 [**GenUI-LoomAgent**](https://github.com/qingkongzhiqian/GenUI-LoomAgent) — AI 自主决定渲染 UI 组件的 Agent 框架
-- 📝 十年搜索算法 / 搜索架构 / 大模型训练与微调经验
-- 📍 坐标 北京
+- 🚀 Focused on the LLM Application and AI Agent ecosystem
+- 🔭 Exploring product development and commercialization in the AI era
+- 🛠️ Building [**GroundAPI**](https://github.com/qingkongzhiqian/groundapi) — a real-time data API platform for AI Agents (MCP / REST / CLI)
+- 🧶 Open-sourced [**GenUI-LoomAgent**](https://github.com/qingkongzhiqian/GenUI-LoomAgent) — an Agent framework where AI autonomously decides which UI components to render
+- 📝 10 years of experience in search algorithms / search architecture / LLM training & fine-tuning
+- 📍 Based in Beijing
 
 ---
 
@@ -27,10 +27,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**GPT2-Summary**](https://github.com/qingkongzhiqian/GPT2-Summary) ⭐ 400+ | 基于 GPT2 的中文摘要生成模型 | Python, PyTorch |
-| [**GenUI-LoomAgent**](https://github.com/qingkongzhiqian/GenUI-LoomAgent) | GenUI Agent 框架 — AI 自主决定渲染 UI 组件 | TypeScript, LangGraph, AG-UI |
-| [**GroundAPI**](https://github.com/qingkongzhiqian/groundapi) | 面向 AI Agent 的实时数据 API（金融/搜索/天气/快递） | Python, FastAPI, MCP |
-| [**NLP**](https://github.com/qingkongzhiqian/NLP) | 中文 NLP 工具集 | Python |
+| [**GPT2-Summary**](https://github.com/qingkongzhiqian/GPT2-Summary) ⭐ 400+ | Chinese text summarization model based on GPT2 | Python, PyTorch |
+| [**GenUI-LoomAgent**](https://github.com/qingkongzhiqian/GenUI-LoomAgent) | GenUI Agent framework — AI autonomously decides which UI components to render | TypeScript, LangGraph, AG-UI |
+| [**GroundAPI**](https://github.com/qingkongzhiqian/groundapi) | Real-time data API for AI Agents (finance / search / weather / logistics) | Python, FastAPI, MCP |
+| [**NLP**](https://github.com/qingkongzhiqian/NLP) | Chinese NLP toolkit | Python |
 
 ---
 
